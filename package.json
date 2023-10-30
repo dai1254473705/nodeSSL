@@ -1,0 +1,22 @@
+{
+  "name": "nodessl",
+  "version": "1.0.0",
+  "description": "node+koa+mkcert动态生成ssl证书，实现https访问请求",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai1254473705/nodeSSL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai1254473705/nodeSSL/issues"
+  },
+  "homepage": "https://github.com/dai1254473705/nodeSSL#readme",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
